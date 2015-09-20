@@ -374,7 +374,7 @@ module.exports = '<div class="container">\n	<div class="row">\n		<div class="col
   module.exports = HomePageController;
 })();
 },{}],23:[function(require,module,exports){
-module.exports = '<!--<div class="modules-home-view">-->\n<div class="container">\n	<div class="row">\n		<div class="col-xs-12">\n			<div class="text-center">\n				<h1>Open Disclosure</h1>\n				<p>{{testVar}}</p>\n			</div>\n		</div>\n	</div>\n</div>\n';
+module.exports = '<!--<div class="modules-home-view">-->\n<div class="container">\n	<div class="row">\n		<div class="col-xs-12">\n			<div class="text-center">\n				<h1>The Awesome Campaign Finance App</h1>\n				<p>{{testVar}}</p>\n			</div>\n		</div>\n	</div>\n</div>\n';
 },{}],24:[function(require,module,exports){
 (function() {
   'use strict';
